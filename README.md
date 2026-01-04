@@ -1,23 +1,32 @@
-News Article Classifier
+# 📰 News Article Classification Using Machine Learning
 
-A Machine Learning based News Article Classification system built using Python and Streamlit.
+A Machine Learning project that classifies news articles into categories using NLP.
 
-Features:
-- World News
-- Sports
-- Business
-- Science & Technology
+## 🔍 Project Overview
+This project uses Natural Language Processing (NLP) to classify news articles into different categories using machine learning.
 
-Tech Used:
+## 📌 Features
+- Text preprocessing
+- TF-IDF Vectorization
+- Machine Learning model
+- Streamlit web interface
+
+## 🛠 Tech Stack
 - Python
 - Scikit-learn
 - Streamlit
-- NLP (TF-IDF)
+- Pandas & NumPy
 
-How to Run:
+## 📦 How to Run
+
+1. Clone the repo
+git clone https://github.com/Ebin017/news-article-classifier
+
+2. Install requirements
 pip install -r requirements.txt
+
+3. Run the app
 streamlit run news.py
 
-Author:
+## 🙌 Author
 Ebin Raj
-
