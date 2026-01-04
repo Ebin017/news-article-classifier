@@ -10,6 +10,11 @@ This project uses Natural Language Processing (NLP) to classify news articles in
 - TF-IDF Vectorization
 - Machine Learning model
 - Streamlit web interface
+- 
+## 📷 Application Screenshots
+
+![App Screenshot 1](screenshots/news1.png)
+![App Screenshot 2](screenshots/news2.png)
 
 ## 🛠 Tech Stack
 - Python
