@@ -13,8 +13,8 @@ This project uses Natural Language Processing (NLP) to classify news articles in
 - 
 ## 📷 Application Screenshots
 
-![App Screenshot 1](news1.png)
-![App Screenshot 2](news2.png)
+![App Screenshot 1](screenshots/news1.png)
+![App Screenshot 2](screenshots/news2.png)
 
 ## 🛠 Tech Stack
 - Python
